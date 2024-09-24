@@ -6,9 +6,8 @@ The plugin establishes a connection between a Minecraft and Discord server.
 1) Grab the [latest release](https://github.com/palmmc/serenity-bridge/releases/), and put the `.sjs` file that you download into your `/plugins/` folder.
 2) Run your server once, so it loads the plugin.
 3) Go into the new folder, then into the `/config/` folder, and make the changes to the configuration files that you want.
-  ([!] Make sure to set your bot's token and channel ID in `properties.scfg`, or the plugin will not work.)
-  ([?] If you do not know how to create a discord bot, see the tutorial linked at the top of that `properties.scfg` file.)
-4) Save your changes, and you're done! Start up your server to begin bridging!
+4) Set your bot's token and channel ID in `properties.scfg`. (If you do not know how to do this, see the tutorial at the top of the file.)
+5) Save your changes, and you're done! Start up your server to begin bridging!
 
 ## Feedback
 I hope you find good use out of this plugin!
