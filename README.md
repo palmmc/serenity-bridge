@@ -14,3 +14,17 @@ I hope you find good use out of this plugin!
 If you have any suggestions, feedback, or bugs, please report them directly to me by joining the [SerenityJS Discord](https://discord.gg/6xBTEZcHHr) and messaging me (**palm1**), or alternatively, create an issue on this github repository.
 
 Happy bridging!
+
+## Roadmap
+**Feature**|**Status**
+:-----:|:-----:
+Server Action Messages|✅
+Event Messages|✅
+Event Message Configuration|✅
+MC -> Discord Logging|✅
+Webhook Mode|🔶
+Discord -> MC Relay|🔶
+(Some) Emoji Support|🔶
+
+✅ - Complete
+🔶 - Planned
