@@ -40,11 +40,12 @@
     "@serenityjs/serenity": "*",
     "@serenityjs/server-ui": "*",
     "@serenityjs/typescript-config": "*",
-    "@serenityjs/world": "*",
-    "@discord.js": "*",
-    "@fs": "*"
+    "@serenityjs/world": "*"
   },
   "devDependencies": {
     "tsup": "^8.2.4"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.2"
   }
 }
