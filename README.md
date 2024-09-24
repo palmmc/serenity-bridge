@@ -2,6 +2,8 @@
 This is a plugin for the [Serenity JS](https://github.com/SerenityJS/serenity/) server software for Minecraft: Bedrock Edition.
 The plugin establishes a connection between a Minecraft and Discord server.
 
+![Showcasing basic discord relay functionality.](https://github.com/palmmc/serenity-bridge/blob/main/chatRelayImage.png?raw=true)
+
 ## Getting Started
 1) Grab the [latest release](https://github.com/palmmc/serenity-bridge/releases/), and put the `.sjs` file that you download into your `/plugins/` folder.
 2) Run your server once, so it loads the plugin.
