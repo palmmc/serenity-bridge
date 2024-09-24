@@ -3,11 +3,12 @@ This is a plugin for the [Serenity JS](https://github.com/SerenityJS/serenity/) 
 The plugin establishes a connection between a Minecraft and Discord server.
 
 ## Getting Started
-1) Grab the [latest release](https://github.com/palmmc/serenity-bridge/releases/tag/Beta), and put the `.zip` file that you download into your `/plugins/` folder.
-2) Extract the `.zip` file into the repository so it becomes a folder, and delete the old `.zip` version once it is complete.
-3) Go into the new folder, then into the `/src/` folder, and edit `config.scfg`.
-4) Add your token & channel ID (if you don't know how to this step, there is a tutorial link in the file).
-5) Customize anything else that you want in the config, then save it, and you're done! Start up your server to begin bridging!
+1) Grab the [latest release](https://github.com/palmmc/serenity-bridge/releases/), and put the `.sjs` file that you download into your `/plugins/` folder.
+2) Run your server once, so it loads the plugin.
+3) Go into the new folder, then into the `/config/` folder, and make the changes to the configuration files that you want.
+  ([!] Make sure to set your bot's token and channel ID in `properties.scfg`, or the plugin will not work.)
+  ([?] If you do not know how to create a discord bot, see the tutorial linked at the top of that `properties.scfg` file.)
+4) Save your changes, and you're done! Start up your server to begin bridging!
 
 ## Feedback
 I hope you find good use out of this plugin!
@@ -22,8 +23,9 @@ Server Action Messages|✅
 Event Messages|✅
 Event Message Configuration|✅
 MC -> Discord Logging|✅
+Discord -> MC Relay|✅
+API & Documentation|🔶
 Webhook Mode|🔶
-Discord -> MC Relay|🔶
 (Some) Emoji Support|🔶
 
 ✅ - Complete
