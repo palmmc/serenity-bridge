@@ -7,6 +7,9 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+# Plugin Config
+bridge.properties
+
 # Lock files
 package-lock.json
 
